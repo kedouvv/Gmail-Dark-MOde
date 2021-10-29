@@ -1,0 +1,198 @@
+@-moz-document domain("mail.google.com") {
+/* main page */
+html,body,.qp,.bkL>.no,.bhZ.bym, .bhZ.bjB,.brC-aT5-aOt-Jw,#loading,.n6 .ah9.aiu:active,.bhZ.bym .aj5,.la-k .la-m{
+    background-color: #1c1c1c;
+}
+.la-i>div{
+    background-color: #1c1c1c !important;
+}
+.qp{
+    border-bottom: 1px solid #eee;
+}
+.msgb,.TO .nU>.n0,.ah9>.CJ,.n3>.CL>.CK{
+    color: #eee;
+}
+.submit_as_link{
+    color: #22f;
+}
+.byl .nZ.aBP{
+    background-color: #000;
+}
+.qj,.J-KU .aH3, .J-KU-KO .aH3,.J-KU.a65 .aj2,.Wj::before,.CL::before,.aii,.air .G-asx,.n4 .G-asx,.asor,.gsaq_b{
+    filter: invert(100%);
+}
+.nZ>.aHS-bnt .qj{
+    filter: invert(0%);
+}
+/* top box */
+.gb_pa svg, .gb_Ac svg, .gb_Wc .gb_Zd, .gb_Mc .gb_Zd,.gb_Ne.gb_Oe button svg,.gssb_m,.boo>.ZG,.bs1+.bs3,.bs0>.acM,.boo .aQl>.J-JN-M-I-Jm, .boo .aaa>.J-JN-M-I-Jm, .boo .ZE>.J-JN-M-I-Jm,.J-JB-KA,.J-JB-KA-JS,.J-JB-KA-LG,.ua,.aiv .am>.ao5{
+    color: #eee;
+}
+.bs1+.bs3::before,.T-axO .J-JN-M-I-JG,.bs5::after{
+    filter: invert(100%);
+}
+.gb_Ne,.gb_Ne.gb_Oe,.J-M,.J-JB-KA,.t9,.ah.aiv{
+    background-color: #222;
+    border: 1px solid #aaa;
+}
+.gssb_m,.gssb_e,.ZF-zT,.J-JB-KA-JS,.J-JB-KA-LG,.ah .Jd-Je{
+    background-color: #222;
+}
+.gssb_i,.nr,.t6.zH{
+    background-color: #000;
+}
+.asor_e,.gsan_a,.bs0>.acM.acN,.J-JB-KA-a6O-Zq, .J-JB-KA-a6O-Zj{
+    color: #ccc;
+}
+.J-JB-KA-Ku-Kk,.aiv .am>.Sr{
+    color: #bbb;
+}
+.nr,.J-N{
+    color: #fff;
+}
+input#ga_taif50.gb_8e,input.gb_8e{
+    color: #fff !important;
+}
+.J-JB-KA-K8,.bk5{
+    color: #222;
+}
+/* main box */
+/* main top */
+.G-tF .T-Jo-ayH,.G-asx,.ar8,.asl,.ar9,.bAO,.bAP,.brW,.Vj,.ase,.asb,.bjy::after,.G-tF .T-Jo-Jp,.asf,.G-tF .T-Jo,.amI,.amJ,.apK,.aBS .d-Na-JX-I .d-Na-J3,.ar6,.apJ,.d-Na-J3,.d-Na-N.d-Na-KO .d-Na-Jo,.apI{
+    filter: invert(100%);
+}
+.Dj{
+    color: #bbb;
+}
+.d-Na-JG-M{
+    background-color: #222;
+}
+.d-Na-N{
+    color: #eee;
+}
+.d-Na-aEp-KW{
+    background-color: #000;
+}
+/* mail list */
+.zA{
+    background-color: #2c2c2c;
+    color: #eee;
+}
+.zA:hover{
+    background-color: #444;
+    color: #fff;
+}
+.x7{
+    background-color: #555;
+}
+.zE{
+    background-color: #000;
+}
+.xY>.T-Jo-Jp,.xY>.T-Jo,td.apU>.T-KT.aXw::before,.a9q,.brq,.bru,.brs,.brv{
+    filter: invert(100%);
+}
+.pH{
+    filter: invert(0%);
+}
+.x7 .y2,.yO>.xW,.y2{
+    color: #aaa;
+}
+/* mail list tab */
+.aKh{
+    background-color: #2c2c2c22;
+}
+.aKe-aLf,.aIf-aLf{
+    filter: invert(100%);
+}
+.J-KU-KO>.aIf-aLf,.J-KU-KO>.aKe-aLf{
+    filter: invert(0%);
+}
+.aKx>.aKz{
+    color: #eee;
+}
+/* mail detail */
+/* mail detail top complement */
+.adj,.adk{
+    filter: invert(100%);
+}
+.h0{
+    color: #aaa;
+}
+/* mail detail main */
+.aeJ,.iY .Bu,.wR>.amn,.adI,.h9,.if,.Bu{
+    background-color: #2c2c2c;
+}
+.ha>.hP,.hx,.hx .gD,.J-JN-M-I,.h9{
+    color: #eee;
+}
+.go,.hx .hb,.iv .g3, .hI .g3,.apb{
+    color: #ddd;
+}
+.Ca,.g6,.l6,.l8,.l9,.ma,.aiD{
+    color: #aaa;
+}
+.ii a[href],.adI .B9,.h8{
+    color: #01bdff;
+}
+.im{
+    color: #b700ff
+}
+.amn>.ams{
+    background-color: #111;
+    color: #ddd;
+}
+.ams.bkH::before,.ams.bkG::before,.ajy>.ajz,.bi4>.T-KT:not(.T-KT-Jp):not(.byM)::before,.hB,.hA,.g1,.gZ,.hc,.J-JN-M-I-JG,.adG,.zz,.aeu,.gq,.aiz{
+    filter: invert(100%);
+}
+
+.aZ6::-webkit-scrollbar-thumb{
+    background-color: #000;
+}
+
+}
+
+@-moz-document url-prefix("https://ogs.google.com/u/0/widget/app?bc=1&origin=https%3A%2F%2Fmail.google.com") {
+/* Google 应用 box */
+.u4RcUd,.LVal7b,.WwFbJd,.WwFbJd>a{
+    background-color: #222;
+}
+.Rq5Gcb{
+    color: #eee;
+}
+.j1ei8c>a:hover,.j1ei8c>a:hover .Rq5Gcb,.WwFbJd>a:hover{
+    background-color: #333;
+    color: #eee;
+}
+.dGrefb{
+    border-bottom: 1px solid #000;
+    margin: 0;
+}
+
+::-webkit-scrollbar{
+    background-color: #222;
+}
+.EHzcec::-webkit-scrollbar-thumb{
+    background-color: #0f0f0f;
+}
+::-webkit-scrollbar-thumb:hover{
+    background-color: #000;
+}
+}
+
+@-moz-document domain("mail.google.com") {
+/* user information box */
+.gb_E,.gb_vb.gb_vb{
+    background-color: #2c2c2c;
+    color: #eee;
+}
+.gb_rb.gb_rb,.gb_Cb.gb_Cb{
+    background-color: #3c3c3c;
+    color: #eee;
+}
+.gb_sb,.gb_tb.gb_tb,.gb_k .gb_nb{
+    color: #eee;
+}
+.gb_k .gb_lb{
+    color: #fff;
+}
+}
